@@ -1,6 +1,6 @@
 # Oleksandr Holovko
 
-I run an e-commerce brand and automate its processes with AI agents.
+I run an e-commerce brand and build the AI agents and automations it runs on.
 
 For seven years I have been building HOLBAND, a fitness equipment brand, from scratch. For the past year my main work has been rebuilding how it runs, with Claude Code, the Anthropic API and Cloudflare Workers. I had done almost every job in the business by hand, so I knew what was worth automating and where it would break.
 
@@ -43,4 +43,4 @@ As of 10 October 2026 the private setup holds 88 Python tools and data collector
 
 ## Background
 
-Professional football from 2010 to 2022, in the Ukrainian First League and Premier League and later in France. Master's degree in Sport Psychology. Based in France, working remotely. Ukrainian, English, French, Russian.
+Fifteen years in football: professional from 2010 to 2022 in the Ukrainian First League and Premier League, then semi-professional in France. Master's degree in Sport Psychology. Based in France, working remotely. Ukrainian, English, French, Russian.
