@@ -1,8 +1,8 @@
 # Oleksandr Holovko
 
-I run an e-commerce brand and build the AI agents and automations it runs on.
+**AI Automation Engineer.** I build AI agents and automations for business processes. Open to remote roles.
 
-For seven years I have been building HOLBAND, a fitness equipment brand, from scratch. For the past year my main work has been rebuilding how it runs, with Claude Code, the Anthropic API and Cloudflare Workers. I had done almost every job in the business by hand, so I knew what was worth automating and where it would break.
+Over the past year I went deep into AI engineering, automation and process optimization, and HOLBAND, the fitness equipment brand I have been building from scratch since 2019, became the place to put all of it into practice. That is my experience: I had done almost every job in the business by hand, so I knew what was worth automating and where it would break. The stack is Claude Code, the Anthropic API and Cloudflare Workers.
 
 Case studies with screenshots and technical details: **[holovko-ai.pages.dev](https://holovko-ai.pages.dev)**
 
