@@ -6,7 +6,9 @@ For seven years I have been building HOLBAND, a fitness equipment brand, from sc
 
 Case studies with screenshots and technical details: **[holovko-ai.pages.dev](https://holovko-ai.pages.dev)**
 
-## What runs in production
+## What I have built
+
+These are examples, not the full list. The first five run in production in my own business, the last one was built for another team. The site has thirteen breakdowns.
 
 | Process | What changed | Stack |
 |---|---|---|
@@ -15,6 +17,7 @@ Case studies with screenshots and technical details: **[holovko-ai.pages.dev](ht
 | **Customer bot** | The same questions used to arrive in DMs. Now a Telegram bot sends the tracking number when the parcel ships and handles loyalty points, promo codes, referrals and reviews. Only the serious questions reach a person. | Telegram Bot API, Cloudflare Workers, Hyperdrive, PostgreSQL, Nova Poshta API |
 | **Shipping notifications** | The manager had to keep checking the order system. Now each new waybill arrives as one Telegram message with the tracking number, the customer, the branch and a photo of every item. | Shopify webhooks, PostgreSQL jsonb, Telegram sendMediaGroup |
 | **Finances** | 4,879 bank transactions over three years sorted automatically and reconciled to the penny: business apart from personal, results by year, margin by product. | Python, pdfplumber, Shopify Admin GraphQL |
+| **Silent listener for work chats** (built for another team) | Instructions were born mid-conversation in Telegram groups and got lost there. One bot listens to the groups and never writes in them. A second one sends the team lead proposed tasks with the quote they came from, reminds people about deadlines and brings an evening summary of the day. The model proposes, a person confirms. Tested on two test groups. | Cloudflare Workers, Telegram Bot API, Mini App, PostgreSQL, Hyperdrive, Gemini |
 
 I am opening these one by one as separate repositories.
 
