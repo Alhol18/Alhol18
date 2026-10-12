@@ -40,7 +40,7 @@ As of 10 October 2026 the private setup holds 88 Python tools and data collector
 
 - **By hand first.** I automate a process only after I have done it myself and know where it goes wrong.
 - **The model reasons, code executes.** An LLM decides what needs to happen. Deterministic scripts do it, so the same input gives the same result.
-- **The cheapest path to the same result.** Every tool has to earn its place. As of October 2026 the whole stack costs about ₴8,700 a month, less than one entry-level salary.
+- **The cheapest path to the same result.** Every tool has to earn its place. Where two routes give the same result, I take the one that costs less.
 - **Check through a second route.** A result is verified by a different path than the one that produced it. The fiscal worker was checked this way: 100% match, 0 failures.
 - **People decide, agents prepare.** Anything that needs a human judgment goes into a queue with the context attached.
 
